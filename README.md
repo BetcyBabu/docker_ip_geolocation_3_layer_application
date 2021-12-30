@@ -10,6 +10,8 @@ If the caching server already has the geo IP location, redis will provide  infor
 
 **AWS Secret Manager** helps you to protect your privacy, so I'm storing my API key in AWS Secret Manager.
 
+![image](https://user-images.githubusercontent.com/23291976/147785478-64cceb97-4d22-4749-9bc7-f66901a615e6.png)
+
 ## Prerequisites
 
 Unique authentication key to gain access to the IP geolocation API, https://ipgeolocation.io/
